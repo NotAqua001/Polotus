@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "Canopus Bot"
+version = "0.1.0"
+description = ""
+authors = ["Gamecooler19"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+discord = "^1.7.3"
+aiosqlite = "^0.17.0"
+async-timeout = "^3.0.1"
+Flask = "^2.0.1"
+giphy_client = "^1.0.0"
+youtube_dl = "^2021.6.6"
+aiofiles = "^0.7.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

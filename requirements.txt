@@ -1,0 +1,11 @@
+discord.py
+prsaw
+discord-py-slash-command
+DiscordUtils
+aiosqlite
+topggpy
+discord_components
+youtube_dl
+PyNaCl
+aiofiles
+giphy_client
